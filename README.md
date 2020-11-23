@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## I'm a graduate student at SJSU.
 - 🔭 I’m currently working on Content Aware Networking. 
 - 🌱 I’m currently learning DevOps tools and Full Stack Development. 
-- 👯 I’m looking for some internship .
+- 👯 I’m looking for some internship.
 - 🥅 2020 Goals: Learn Data Structures and Algorithms.
 - ⚡ Fun fact: I love listening to music, reading books and binge watch youtube videos. 
 
